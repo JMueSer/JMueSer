@@ -7,18 +7,9 @@ I hold a **C1 English certification from Cambridge** and I plan to pursue a **Co
 ## 🛠️ Skills & Interests  
 - System administration  
 - Network management  
-- Cybersecurity fundamentals  
-- Programming (Python, Java, etc.)  
-
-## 🎯 Goals  
-- Deepen my knowledge in computer engineering and software development.  
-- Work in an IT company that values teamwork and communication.  
-- Contribute to open-source projects.  
 
 ## 📫 How to Reach Me  
-- **Email:** [your-email@example.com]  
-- **LinkedIn:** [your-linkedin-profile]  
-- **GitHub:** [your-github-username]  
+- **GitHub:** [https://github.com/MrTooth-jpg]  
 
 ---
 
