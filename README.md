@@ -9,7 +9,7 @@ I hold a **C1 English certification from Cambridge** and I plan to pursue a **Co
 - Network management  
 
 ## 📫 How to Reach Me  
-- **GitHub:** [https://github.com/MrTooth-jpg]  
+- **GitHub:** [https://github.com/JMueSer]  
 
 ---
 

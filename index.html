@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Me - Juan Muela Serrano</title>
+  <style>
+    :root {
+      --bg-light: #f5f7fa;
+      --bg-dark: #0d1117;
+      --text-light: #1f2328;
+      --text-dark: #c9d1d9;
+      --card-light: #ffffff;
+      --card-dark: #161b22;
+      --accent: #0969da;
+    }
+
+    body {
+      font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      background-color: var(--bg-light);
+      color: var(--text-light);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      margin: 0;
+      padding: 2rem;
+      transition: background 0.3s, color 0.3s;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      body {
+        background-color: var(--bg-dark);
+        color: var(--text-dark);
+      }
+      .card {
+        background-color: var(--card-dark);
+      }
+    }
+
+    .card {
+      background-color: var(--card-light);
+      max-width: 650px;
+      width: 100%;
+      border-radius: 16px;
+      padding: 2rem 2.5rem;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+      transition: transform 0.3s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-4px);
+    }
+
+    h1 {
+      font-size: 2rem;
+      margin-top: 0;
+      color: var(--accent);
+    }
+
+    h2 {
+      margin-top: 1.8rem;
+      border-bottom: 2px solid var(--accent);
+      display: inline-block;
+      padding-bottom: 0.2rem;
+    }
+
+    ul {
+      list-style-type: "💻 ";
+      padding-left: 1.5rem;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    blockquote {
+      margin-top: 2rem;
+      padding-left: 1rem;
+      border-left: 4px solid var(--accent);
+      font-style: italic;
+      opacity: 0.85;
+    }
+  </style>
+</head>
+<body>
+  <main class="card">
+    <h1>👋 Hi there, I'm Juan Muela Serrano</h1>
+
+    <h2>📚 About Me</h2>
+    <p>
+      I am currently studying <strong>Administration and Networked Computer Systems (ASIR)</strong>.<br>
+      I hold a <strong>C1 English certification from Cambridge</strong> and I plan to pursue a
+      <strong>Computer Engineering degree</strong> after completing my current studies.
+    </p>
+
+    <h2>🛠️ Skills & Interests</h2>
+    <ul>
+      <li>System administration</li>
+      <li>Network management</li>
+    </ul>
+
+    <h2>📫 How to Reach Me</h2>
+    <p>
+      <strong>GitHub:</strong> <a href="https://github.com/JMueSer" target="_blank">JMueSer</a>
+    </p>
+
+    <blockquote>
+      “Always learning, always improving.”
+    </blockquote>
+  </main>
+</body>
+</html>
